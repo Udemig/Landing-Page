@@ -1,0 +1,21 @@
+.banner{
+    background-color: violet;
+    color: red;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#banner-img{
+    height: 100px;
+    width: 100px;
+}
+
+#desc-id{
+    color: purple;
+    font-size: 25px;
+}
+
+.desc-class{
+    font-weight: bold;
+}
