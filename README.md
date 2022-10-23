@@ -7,3 +7,5 @@ People can reach us via this platform how they want
 Lastest HTML5 ve CSS3 features were used
 
 <h2> Screen Gif </h2>
+
+![](screen.gif)
